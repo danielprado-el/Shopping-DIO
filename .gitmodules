@@ -1,0 +1,3 @@
+[submodule "API-Shopping"]
+	path = API-Shopping
+	url = git@github.com:danielprado-el/API-Shopping.git
